@@ -1,0 +1,3 @@
+DataProcessing.c:6:6:idleProcess	8	static
+DataProcessing.c:12:6:rfTxMessages	336	static
+DataProcessing.c:45:6:initialiseDevices	16	static
